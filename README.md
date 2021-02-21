@@ -23,3 +23,4 @@
 #### Aside 33 percent, 20 pixel and padding 20pixel for spacing then float left for perfect position.
 #### On footer, clear the float and pad with 20 pixels.
 #### Tons of stuff in css.
+#### image added with javascript
